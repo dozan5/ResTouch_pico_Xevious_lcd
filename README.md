@@ -1,6 +1,7 @@
 # ResTouch版 Xeviousもどき  
 Katsumi様、KenKen様作成の[MachiKania type M](http://www.ze.em-net.ne.jp/~kenken/machikania/typem.html)用に作成した「Xeviousもどき」を  
 [ResTouch](https://www.switch-science.com/products/7330)へ移植しました。  
+GP28とGND間に[圧電スピーカー](https://akizukidenshi.com/catalog/g/g104118/)を接続すると効果音が出ます。  
 
 　ResTouch版(VERTICALバージョン）  
 ![](Xevious1.jpg)  
